@@ -1,2 +1,2 @@
 linea 1 
-linea 2 por Dev2 (diferente)
+Línea 2 combinada (de Dev1 y Dev2)
